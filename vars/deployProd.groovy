@@ -1,4 +1,5 @@
+package com.cloudbees
 
 def call(){
-    echo "testCalled"
+    printf "testCalled"
 }
