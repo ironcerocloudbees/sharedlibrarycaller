@@ -1,6 +1,6 @@
 package com.cloudbees
 
-@Library('CloudBees@master') _
+@Library('CloudBees') _
 
 def call(){
     printf "testCalled"
